@@ -39,7 +39,7 @@ import java.util.Arrays;
 import java.util.Comparator;
 import java.util.Scanner;
 
-public class Kruskal2 {
+public class Kruskal {
 
 	static final int MAX = 1005;  //maximo numero de vértices
 
